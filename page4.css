@@ -1,0 +1,188 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(255,255,255,0.4), rgba(255,255,255,0.4)), url('images/wallpapersden.com_westeros-map-game-of-thrones-tv-show-wallpaper_2560x1440.jpg');
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1003px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 570px;
+  --radius: 10px;
+  height: auto;
+  background-image: none;
+  min-height: 968px;
+  margin: 50px auto -15px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 15px 0 12px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  margin: 15px 30px 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 0.875rem;
+  margin: 25px 301px 0 30px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 255px;
+  height: 560px;
+  --radius: 10px;
+  margin: -560px 30px 0 auto;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 16px 30px 0;
+}
+
+.u-section-1 .u-group-2 {
+  min-height: 194px;
+  width: 510px;
+  height: auto;
+  margin: 15px auto 0;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 8px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 827px;
+  }
+
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-1 .u-group-2 {
+    height: auto;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-bottom: 10px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1028px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 1004px;
+    margin-top: 49px;
+    margin-bottom: -25px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+  }
+
+  .u-section-1 .u-group-2 {
+    min-height: 217px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 28px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1022px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-bottom: -21px;
+    min-height: 994px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 285px;
+    margin-left: 15px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-right: 15px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1481px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-bottom: -15px;
+    min-height: 1447px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 12px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    font-size: 2.25rem;
+    margin-top: 18px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 30px;
+    margin-right: 15px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 30px;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 18px;
+  }
+
+  .u-section-1 .u-group-2 {
+    width: 315px;
+    min-height: 239px;
+    margin-top: 18px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 18px;
+  }
+}
